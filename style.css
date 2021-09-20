@@ -239,6 +239,9 @@ input{
     color: var(--color-black-2);
 }
 
+.rotated_btn:hover{
+    transform: rotate(360deg);
+}
 .orDiv{
     display: flex;
     margin: auto;
